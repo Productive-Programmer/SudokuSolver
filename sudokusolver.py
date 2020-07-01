@@ -43,4 +43,5 @@ def solve():
     print(np.matrix(grid))
 
 
+print("THen I am calling the funcition ")
 solve()
